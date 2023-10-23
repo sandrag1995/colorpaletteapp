@@ -2,7 +2,7 @@ import './App.css';
 import  "./components/ColorCard";
 import ColorCard from "./components/ColorCard";
 
-function task8() {
+function App() {
 
     const colors = [
         {
@@ -856,4 +856,4 @@ function task8() {
 
 }
 
-export default task8;
+export default App;
